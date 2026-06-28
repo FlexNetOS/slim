@@ -11,7 +11,7 @@
     "@fontsource-variable/geist": "^5.0.0",
     "@fontsource-variable/geist-mono": "^5.0.0",
     "@fontsource/ibm-plex-serif": "^5.2.7",
-    "astro": "^5.0.0"
+    "astro": "^6.1.10"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.2.1",
